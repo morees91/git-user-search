@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         this is testing app<code>src/App.tsx</code> and save to reload.
+         this is testing app with branch name testing<code>src/App.tsx</code> and save to reload.
         </p>
         <a
           className="App-link"
