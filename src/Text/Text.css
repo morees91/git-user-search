@@ -1,0 +1,15 @@
+.UserName{
+
+    margin-left: 15px;
+    background-color: white;
+}
+
+.Bios,.Date,.location,.Twitter,.gitHub-Link, a,.Work{
+    background-color: white;
+}
+
+
+.Repos,.Followers,.Following{
+    background-color: #F6F8FF;
+
+}
